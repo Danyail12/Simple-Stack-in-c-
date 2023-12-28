@@ -24,7 +24,7 @@ class stack{
         top--;
         // cout<<arr[top]<<endl;
     }
-    void transversal(){
+    void traversal(){
     
         for(int i=0;i<top;i++){
             cout<<arr[i]<<endl;
